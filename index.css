@@ -1,0 +1,63 @@
+body{
+    font-family: Verdana;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    font-size: 14px;
+}
+
+p{
+    font-size: 8.5px;
+}
+
+#p1{
+    text-align: center;
+    line-height: 0.125;
+    font-size: 8.5px;
+}
+
+#p2{
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 0.125;
+}
+
+h3{
+    text-align: center;
+}
+
+h4{
+    font-size: 8.5px;
+    line-height: 0.125;
+}
+
+span{
+    color: red;
+}
+
+div{
+    font-size: 8.5px;
+}
+
+#div1{
+    float: left;
+    font-weight: bold;
+    font-size: 8.5px;
+}
+
+#div2{
+    float: right;
+    font-weight: bold;
+    font-size: 8.5px;
+
+}
+
+ul{
+    font-size: 8.5px;
+}
